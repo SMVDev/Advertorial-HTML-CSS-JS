@@ -1,1 +1,1 @@
-Advertorial page created with HTML and CSS
+ Advertorial page created with HTML, CSS and JS
